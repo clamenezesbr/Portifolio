@@ -26,28 +26,6 @@ Este é meu portfólio pessoal, desenvolvido com o objetivo de apresentar minhas
 
 ---
 
-## 📸 Imagens do Projeto
-
-### 🖼️ Sobre Mim
-![about-me](https://user-images.githubusercontent.com/placeholder/about-me.jpg)
-
-### 💼 Experiências
-![experiences](https://user-images.githubusercontent.com/placeholder/experiences.jpg)
-
-### 🧠 Skills
-![skills](https://user-images.githubusercontent.com/placeholder/skills.jpg)
-
----
-
-## 📬 Contato
-
-Se quiser conversar sobre oportunidades, trocar ideias ou apenas bater um papo sobre tecnologia:
-
-- 📧 [E-mail](mailto:ga.menezes@hotmail.com)
-- 💬 [WhatsApp](https://wa.me/5511915834028)
-
----
-
 ## 🚀 Deploy Futuro
 
 Pretendo transformar este portfólio em uma SPA usando **React.js** com backend em **Node.js**, integrando APIs para dinamizar as experiências, projetos e posts técnicos do meu blog.
