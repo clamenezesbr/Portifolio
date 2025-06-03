@@ -34,4 +34,4 @@ Pretendo transformar este portfólio em uma SPA usando **React.js** com backend 
 
 🧠 Feito por **Gabriel Menezes**.
 
-![Mackenzie Preview Image](https://ibb.co/ksnd1cLH)
+![Preview Image](https://i.ibb.co/FLvPV7Qx/Portifolio-visualizacao.png)
