@@ -13,7 +13,7 @@ This is my personal portfolio, developed to showcase my professional experience,
 - Fully responsive layout optimized for all devices
 
 ---
-
+   
 ## 🛠️ Technologies Used
 
 | Technology | Description |
