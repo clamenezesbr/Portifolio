@@ -41,4 +41,4 @@ There are still features I intend to implement. Here's the base design I created
 
 🧠 Built by **Gabriel Menezes**.
 
-![Preview Image](https://i.ibb.co/FLvPV7Qx/Portifolio-visualizacao.png)  
+![Preview Image](https://i.ibb.co/FLvPV7Qx/Portifolio-visualizacao.png)   
