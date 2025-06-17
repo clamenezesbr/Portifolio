@@ -12,7 +12,7 @@ This is my personal portfolio, developed to showcase my professional experience,
 - Links to downloadable PDF resume and direct contact via WhatsApp and email
 - Fully responsive layout optimized for all devices
 
----   
+---      
    
 ## 🛠️ Technologies Used
 
